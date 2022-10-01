@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar o site pelo link abaixo:
 
-- [Wildbeast](https://flexblog-lucas-css.netlify.app/) - O site está hospedado gratuitamente na Netlify
+- [Wildbeast](https://wildbeast-lucas.netlify.app/) - O site está hospedado gratuitamente na Netlify
 
 # 💼 Direitos
 
